@@ -14,3 +14,5 @@ process(brightness, fps);
 ```
 
 A plot will open and you will see an animation of the estimated heart rate over time.
+
+

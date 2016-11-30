@@ -21,7 +21,7 @@ end
 
 display('Signal acquired.');
 display(' ');
-display(['Sampling rate is ' num2str(v.FrameRate) '. You can now run process(your_signal_variable, ' num2str(v.FrameRate) ')']);
+display(['Sampling rate is ' num2str(v.FrameRate) '. You can now run process(brightness, ' num2str(v.FrameRate) ')']);
 
 end
 
